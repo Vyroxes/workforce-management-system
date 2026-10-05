@@ -21,3 +21,4 @@ Thumbs.db
 *.sqlite3
 *.log
 *.txt
+!todo-list.txt
